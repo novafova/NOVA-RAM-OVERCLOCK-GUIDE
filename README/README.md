@@ -1,4 +1,4 @@
-# Comprehensive RAM Overclocking Guide
+# NovaTweaks Comprehensive RAM Overclocking Guide
 
 ## DDR4 & DDR5 Memory Tuning, Timings, Voltages, Stability Testing, IC Types, and Performance Optimization
 
